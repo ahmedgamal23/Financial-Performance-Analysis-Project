@@ -1,0 +1,1068 @@
+,DATE,LOCATION,ITEM,COST,COMMENTS,file_name
+0,2018-12-01,Shirley,Rent,-670.0,,2018-01-01
+1,2018-12-03,Superstore,Food,-36.91,,2018-01-01
+2,2018-12-09,Safeway,Food,-0.73,,2018-01-01
+3,2018-12-08,Subway,Food,-8.39,,2018-01-01
+4,2018-12-11,Safeway,Food,-3.25,,2018-01-01
+5,2018-12-11,Safeway,Food,-4.99,,2018-01-01
+6,2018-12-03,Safeway,Food,-9.44,,2018-01-01
+7,2018-12-01,Starbucks,Restaurant,-5.2,,2018-01-01
+8,2018-12-07,Wal-Mart,Toys,-15.75,,2018-01-01
+9,2018-12-07,Subway,Food,-8.39,,2018-01-01
+10,2018-11-30,Old Navy,Clothing,-47.84,,2018-01-01
+11,2018-12-06,LDL,Restaurant,-18.9,,2018-01-01
+12,2018-12-13,Subway,Restaurant,-8.39,,2018-01-01
+13,2018-12-10,Subway,Restaurant,-8.39,,2018-01-01
+14,2018-12-08,Starbucks,Restaurant,-5.2,,2018-01-01
+15,2018-12-14,Safeway,Food,-6.2,,2018-01-01
+16,2018-12-14,SU Wellness,Chiropractor,-35.0,,2018-01-01
+17,2018-12-15,Subway,Food,-8.39,,2018-01-01
+18,2018-12-17,Safeway,Food,-19.59,,2018-01-01
+19,2018-12-18,Safeway,Food,-6.2,,2018-01-01
+20,2018-12-18,Subway,Food,-8.39,,2018-01-01
+21,2018-12-19,Subway,Food,-8.39,,2018-01-01
+22,2018-12-20,Safeway,food,-5.15,,2018-01-01
+23,2018-12-20,Superstore,Food,-74.58,,2018-01-01
+24,2018-12-23,Safeway,Food,-20.7,,2018-01-01
+25,2018-12-27,Superstore,Food,-73.74,,2018-01-01
+26,2018-12-29,Active Living,Squash Wristband,-5.25,,2018-01-01
+27,2018-12-29,Steam,Portal Game,-3.44,,2018-01-01
+28,2018-12-31,Greta,New Years!,-85.85,,2018-01-01
+29,2018-12-31,Uber,Transportation,-36.84,,2018-01-01
+30,2018-11-01,Shirley,Rent,-670.0,,2018-01-01
+31,2018-11-02,Dominos,Food,-34.08,,2018-01-01
+32,2018-11-02,Subway,Food,-10.8,,2018-01-01
+33,2018-11-03,Subway,Food,-6.2,,2018-01-01
+34,2018-11-04,Safeway,Food,-4.29,,2018-01-01
+35,2018-11-04,Subway,Food,-9.96,,2018-01-01
+36,2018-11-05,Subway,Food,-10.8,,2018-01-01
+37,2018-11-06,Safeway,Food,-3.49,,2018-01-01
+38,2018-11-06,Subway,Food,-10.8,,2018-01-01
+39,2018-11-07,Subway,Food,-8.39,,2018-01-01
+40,2018-11-07,Safeway,Food,-5.99,,2018-01-01
+41,2018-11-07,London Drugs,Candy,-2.08,,2018-01-01
+42,2018-11-08,Subway,Restaurant,-8.39,,2018-01-01
+43,2018-11-09,Safeway,Food,-11.54,,2018-01-01
+44,2018-11-10,Subway,Food,-5.24,,2018-01-01
+45,2018-11-10,Wal-Mart,Personal Items,-66.73,,2018-01-01
+46,2018-11-11,Safeway,Food,-3.6,,2018-01-01
+47,2018-11-13,Subway,Restaurant,-8.39,,2018-01-01
+48,2018-11-14,Subway,Food,-8.39,,2018-01-01
+49,2018-11-14,Safeway,Food,-10.45,,2018-01-01
+50,2018-11-15,Good Earth,Restaurant,-6.72,,2018-01-01
+51,2018-11-15,Safeway,Food,-3.97,,2018-01-01
+52,2018-11-15,Subway,Restaurant,-8.39,,2018-01-01
+53,2018-11-16,Safeway,Medicine,-14.16,,2018-01-01
+54,2018-11-16,Starbucks,Restaurant,-9.03,,2018-01-01
+55,2018-11-18,Safeway,Food,-12.98,,2018-01-01
+56,2018-11-18,Subway,Food,-8.39,,2018-01-01
+57,2018-11-19,Safeway,Medicine,-12.59,,2018-01-01
+58,2018-11-19,Safeway,Food,-7.96,,2018-01-01
+59,2018-11-19,Safeway,Food,-6.19,,2018-01-01
+60,2018-11-20,Subway,Food,-8.39,,2018-01-01
+61,2018-11-21,Subway,Food,-8.39,,2018-01-01
+62,2018-11-22,Subway,Food,-8.39,,2018-01-01
+63,2018-11-23,Subway,Food,-8.39,,2018-01-01
+64,2018-11-23,SU Wellness,Chiropractor,-35.0,,2018-01-01
+65,2018-11-24,Superstore,Food,-64.63,,2018-01-01
+66,2018-11-27,Safeway,Food,-12.13,,2018-01-01
+67,2018-11-29,Safeway,Food,-7.67,,2018-01-01
+68,2018-11-29,Safeway,Food,-8.39,,2018-01-01
+69,2018-11-28,Calgary Transit,Pass,-5.15,,2018-01-01
+70,2018-11-30,Subway,Food,-8.39,,2018-01-01
+71,2018-11-30,Chatters,Hair Cut,-44.68,,2018-01-01
+72,2018-11-30,Bake Chef,Food,-32.0,,2018-01-01
+73,2018-10-02,Safeway,Food,-5.99,,2018-01-01
+74,2018-10-02,Shirley,Rent,-670.0,,2018-01-01
+75,2018-10-03,Safeway,Food,-11.01,,2018-01-01
+76,2018-10-04,Safeway,Food,-10.6,,2018-01-01
+77,2018-10-06,Dominos,Restaurant,-33.18,,2018-01-01
+78,2018-10-07,Safeway,Food,-4.6,,2018-01-01
+79,2018-10-08,Safeway,Food,-13.43,,2018-01-01
+80,2018-10-09,Superstore,Food,-10.32,,2018-01-01
+81,2018-10-11,Safeway,Food,-11.99,,2018-01-01
+82,2018-10-11,Safeway,Food,-8.4,,2018-01-01
+83,2018-10-12,Level 1 Escape,Entertainment,-20.95,,2018-01-01
+84,2018-10-12,Blaze Pizza,Restaurant,-13.5,,2018-01-01
+85,2018-10-13,Superstore,Food,-63.63,,2018-01-01
+86,2018-10-16,Hayden Block,Restaurant,-57.75,,2018-01-01
+87,2018-10-17,Subway,Restaurant,-10.8,,2018-01-01
+88,2018-10-17,The Den,Bar,-19.55,,2018-01-01
+89,2018-10-20,Subway,Restaurant,-10.8,,2018-01-01
+90,2018-10-21,Opa,Restaurant,-10.8,,2018-01-01
+91,2018-10-21,Subway,Food,-10.8,,2018-01-01
+92,2018-10-22,Safeway,Food,-4.63,,2018-01-01
+93,2018-10-22,Safeway,Food,-7.04,,2018-01-01
+94,2018-10-23,Subway,Restaurant,-10.8,,2018-01-01
+95,2018-10-23,Chatters,Hair Cut,-26.57,,2018-01-01
+96,2018-10-24,Hayden Block,Bar,-14.7,,2018-01-01
+97,2018-10-24,Pho Kim Vy,Restaurant,-13.6,,2018-01-01
+98,2018-10-25,Safeway,Food,-8.75,,2018-01-01
+99,2018-10-27,Safeway,Food,-6.2,,2018-01-01
+100,2018-10-27,Safeway,Food,-7.99,,2018-01-01
+101,2018-10-28,Superstore,Food,-32.22,,2018-01-01
+102,2018-10-30,Calgary Transit,Pass,-5.15,,2018-01-01
+103,2018-10-30,Subway,Restaurant,-10.8,,2018-01-01
+104,2018-10-31,Safeway,Food,-6.2,,2018-01-01
+105,2018-10-31,SU Wellness,Chiropractor,-35.0,,2018-01-01
+106,2018-08-16,Superstore,Food,-56.37,,2018-01-01
+107,2018-09-01,Shirley,Rent,-670.0,,2018-01-01
+108,2018-09-02,Wal-Mart,Personal Items,-58.46,,2018-01-01
+109,2018-09-05,Blaze Pizza,Food,-13.49,,2018-01-01
+110,2018-09-07,Safeway,Food,-5.35,,2018-01-01
+111,2018-09-10,Superstore,Food,-0.63,"I used 50,000pts for this. The original price was 50.63",2018-01-01
+112,2018-09-13,Safeway,Food,-9.76,,2018-01-01
+113,2018-09-14,UofC,Gym Membership,-231.0,,2018-01-01
+114,2018-09-16,Safeway,Food,-25.25,,2018-01-01
+115,2018-09-17,Calgary Transit,Bus Pass,-5.15,,2018-01-01
+116,2018-09-17,Safeway,Food,-11.96,,2018-01-01
+117,2018-09-17,Home Depot,L-Bracket,-3.13,,2018-01-01
+118,2018-09-19,Safeway,Food,-3.89,,2018-01-01
+119,2018-09-19,Safeway,Food,-6.19,,2018-01-01
+120,2018-09-19,Bake Chef,Food,-2.0,,2018-01-01
+121,2018-09-21,Safeway,Food,-17.71,,2018-01-01
+122,2018-09-21,Dominos,Food,-33.0,,2018-01-01
+123,2018-09-25,Chatters,Haircut,-42.26,,2018-01-01
+124,2018-09-26,Superstore,Food,-46.22,,2018-01-01
+125,2018-09-28,McDonald's,Restaurant,-9.2,,2018-01-01
+126,2018-09-29,Safeway,Food,-14.37,,2018-01-01
+127,2019-04-02,Safeway,Food,-35.43,Chicken was on sale!,2019-01-01
+128,2019-04-10,Starbucks,Restaurant,-5.51,,2019-01-01
+129,2019-04-01,Shirley,Rent,-670.0,,2019-01-01
+130,2019-04-09,Safeway,Food,-1.17,,2019-01-01
+131,2019-04-05,Starbucks,Restaurant,-5.51,,2019-01-01
+132,2019-04-05,London Drugs,Fitness,-6.6,Bought head bands,2019-01-01
+133,2019-04-07,Korean BBQ,Restaurant,-11.12,,2019-01-01
+134,2019-04-08,Subway,Restaurant,-9.96,,2019-01-01
+135,2019-04-01,Subway,Restaurant,-9.96,,2019-01-01
+136,2019-04-03,Subway,Restaurant,-9.96,,2019-01-01
+137,2019-04-11,Subway,Restaurant,-9.96,,2019-01-01
+138,2019-04-04,Safeway,Food,-5.98,,2019-01-01
+139,2019-04-04,Subway,Restaurant,-9.96,,2019-01-01
+140,2019-04-03,Safeway,Food,-3.99,,2019-01-01
+141,2019-04-08,Safeway,Food,-7.99,,2019-01-01
+142,2019-04-08,Starbucks,Restaurant,-5.51,,2019-01-01
+143,2019-04-11,Starbucks,Restaurant,-5.51,,2019-01-01
+144,2019-04-02,LDL,Restaurant,-11.55,,2019-01-01
+145,2019-04-01,Wellness Centre,Chiro,-35.0,,2019-01-01
+146,2019-04-13,Subway,Restaurant,-9.96,,2019-01-01
+147,2019-04-11,Safeway,Food,-7.99,,2019-01-01
+148,2019-04-14,Safeway,Food,-6.5,,2019-01-01
+149,2019-04-21,Safeway,Food,-6.2,,2019-01-01
+150,2019-04-14,Subway,Restaurant,-9.96,,2019-01-01
+151,2019-04-13,Safeway,Food,-7.99,,2019-01-01
+152,2019-04-12,Safeway,Food,-5.36,,2019-01-01
+153,2019-04-16,Safeway,Food,-19.37,,2019-01-01
+154,2019-04-12,Safeway,Food,-6.5,,2019-01-01
+155,2019-04-13,Landmark Cinema,Entertainment,-18.91,,2019-01-01
+156,2019-04-17,Subway,Restaurant,-9.96,,2019-01-01
+157,2019-04-15,Safeway,Food,-7.99,,2019-01-01
+158,2019-04-01,Freedom Mobile,Personal,-472.5,Purchased new phone!,2019-01-01
+159,2019-04-12,Safeway,Food,-3.99,,2019-01-01
+160,2019-04-18,London Drugs,Personal,-3.45,Bought mom chocolate for her birthday.,2019-01-01
+161,2019-04-19,Safeway,Food,-5.36,,2019-01-01
+162,2019-04-19,Safeway,Food,-33.41,,2019-01-01
+163,2019-04-20,Safeway,Food,-5.36,,2019-01-01
+164,2019-04-24,Safeway,Food,-19.61,,2019-01-01
+165,2019-04-22,Safeway,Food,-5.36,,2019-01-01
+166,2019-04-04,Old Navy,Clothing,-55.78,,2019-01-01
+167,2019-04-24,Subway,Restaurant,-9.96,,2019-01-01
+168,2019-04-22,Subway,Restaurant,-9.96,,2019-01-01
+169,2019-04-24,Chatters,Hair Cut,-44.68,,2019-01-01
+170,2019-04-23,Subway,Restaurant,-9.96,,2019-01-01
+171,2019-04-22,Wellness Centre,Chiro,-35.0,,2019-01-01
+172,2019-04-22,Starbucks,Restaurant,-4.67,,2019-01-01
+173,2019-04-27,Safeway,Food,-7.99,,2019-01-01
+174,2019-04-25,Safeway,Food,-6.06,,2019-01-01
+175,2019-04-28,Safeway,Personal,-43.14,Paper (all kinds),2019-01-01
+176,2019-04-27,Subway,Restaurant,-10.38,,2019-01-01
+177,2019-04-22,Subway,Restaurant,-9.96,,2019-01-01
+178,2019-04-23,Subway,Restaurant,-9.96,,2019-01-01
+179,2019-04-24,Subway,Restaurant,-9.96,,2019-01-01
+180,2019-04-30,Safeway,Food,-13.99,,2019-01-01
+181,2019-04-23,Starbucks,Restaurant,-5.51,,2019-01-01
+182,2019-04-29,London Drugs,Food,-3.66,,2019-01-01
+183,2019-04-29,Safeway,Food,-11.4,,2019-01-01
+184,2019-04-25,Safeway,Food,-6.06,,2019-01-01
+185,2019-04-26,Subway,Restaurant,-10.38,,2019-01-01
+186,2019-04-25,Subway,Restaurant,-9.96,,2019-01-01
+187,2019-04-28,Safeway,Food,-3.14,,2019-01-01
+188,2019-08-01,Safeway,Food,-7.99,,2019-01-01
+189,2019-08-01,Shirley,Rent,-670.0,,2019-01-01
+190,2019-08-03,Safeway,Food,-13.01,,2019-01-01
+191,2019-08-03,Subway,Restaurant,-10.8,,2019-01-01
+192,2019-08-04,Good Earth,Coffee,-5.7,,2019-01-01
+193,2019-08-04,Ten Foot Henry,Restaurant,-43.51200000000001,,2019-01-01
+194,2019-08-04,Made by Marcus,Restaurant,-6.0,,2019-01-01
+195,2019-08-05,Wendy's,Restaurant,-19.96,,2019-01-01
+196,2019-08-06,Safeway,Food,-22.52,,2019-01-01
+197,2019-08-06,Stor,Food,-2.25,Forgot water bottle :(,2019-01-01
+198,2019-08-07,Chatters,Hair-Cut,-44.68,,2019-01-01
+199,2019-08-07,Subway,Restaurant,-10.8,,2019-01-01
+200,2019-08-08,Coffee Company,Coffee,-5.7,,2019-01-01
+201,2019-08-08,Safeway,Food,-7.97,,2019-01-01
+202,2019-08-09,Midtown Bar,Restaurant,-36.75,For Puja and Gaby birthday,2019-01-01
+203,2019-08-09,Kensington Pub,Restaurant,-7.88,For Puja and Gaby birthday,2019-01-01
+204,2019-08-10,Hexagon Café,Entertainment,-35.73,For Puja and Gaby birthday,2019-01-01
+205,2019-08-10,Opa,Restaurant,-11.13,,2019-01-01
+206,2019-08-11,Safeway,Food,-8.92,,2019-01-01
+207,2019-08-12,Coffee Company,Coffee,-5.7,,2019-01-01
+208,2019-08-12,Subway,Restaurant,-10.8,,2019-01-01
+209,2019-08-13,Longond Drugs,Personal,-5.24,Bought 3 packs of dish soap,2019-01-01
+210,2019-08-13,Korean BBQ,Restaurant,-11.12,,2019-01-01
+211,2019-08-14,Coffee Company,Coffee,-5.7,,2019-01-01
+212,2019-08-14,Subway,Restaurant,-10.8,,2019-01-01
+213,2019-08-15,Safeway,Food,-3.99,,2019-01-01
+214,2019-08-15,Subway,Restaurant,-7.34,,2019-01-01
+215,2019-08-16,Wellness Centre,Chiro,-40.0,"The new lady charged me as a ""returning patient"", instead of ""student/alumni""",2019-01-01
+216,2019-08-16,Wendy's,Restaurant,-23.34,Don’t buy so much food next time!,2019-01-01
+217,2019-08-18,Subway,red,-10.8,,2019-01-01
+218,2019-08-19,Safeway,Food,-5.36,,2019-01-01
+219,2019-08-19,Coffee Company,Coffee,-5.7,,2019-01-01
+220,2019-08-20,Safeway,Food,-3.99,,2019-01-01
+221,2019-08-20,Safeway,Food,-5.36,,2019-01-01
+222,2019-08-20,Coffee Company,Coffee,-5.7,,2019-01-01
+223,2019-08-21,Staples,Work,-53.95,Bought some notebooks,2019-01-01
+224,2019-08-21,Calgary Transit,Personal,-5.3,Didn't charge me the new price,2019-01-01
+225,2019-08-21,Safeway,Food,-5.36,,2019-01-01
+226,2019-08-22,Safeway,Food,-13.99,,2019-01-01
+227,2019-08-22,Safeway,Food,-5.36,,2019-01-01
+228,2019-08-23,Safeway,Food,-5.36,,2019-01-01
+229,2019-08-23,Staples,Work,-32.38,Bought more notebooks,2019-01-01
+230,2019-08-23,Safeway,Food,-3.29,,2019-01-01
+231,2019-08-23,Starbucks,Coffee,-5.51,,2019-01-01
+232,2019-08-24,Safeway,Food,-15.32,,2019-01-01
+233,2019-08-24,Safeway,Food,-9.87,,2019-01-01
+234,2019-08-24,Starbucks,Coffee,-5.51,,2019-01-01
+235,2019-08-25,Safeway,Food,-5.36,,2019-01-01
+236,2019-08-26,Safeway,Food,-5.36,,2019-01-01
+237,2019-08-27,Opa,Restaurant,-11.12,,2019-01-01
+238,2019-08-28,Freshii,Restaurant,-13.01,Got food from Sunridge Mall,2019-01-01
+239,2019-08-29,Safeway,Food,-11.99,Grandma had her hip surgery today,2019-01-01
+240,2019-08-29,Peter Lougheed Centre,Restaurant,-13.7,,2019-01-01
+241,2019-08-30,Peter Lougheed Centre,Restaurant,-18.2,,2019-01-01
+242,2019-08-31,Subway,Restaurant,-10.8,,2019-01-01
+243,2019-08-31,Safeway,Food,-7.99,,2019-01-01
+244,2019-12-01,Safeway,Food,-5.37,Bought 3 clif bars,2019-01-01
+245,2019-12-01,Shirley,Rent,-670.0,,2019-01-01
+246,2019-12-01,Subway,Restaurant,-10.49,,2019-01-01
+247,2019-12-02,Safeway,Food,-65.5,Chicken thighs were on sale,2019-01-01
+248,2019-12-02,Subway,Restaurant,-10.49,,2019-01-01
+249,2019-12-03,Safeway,Food,-42.66,,2019-01-01
+250,2019-12-03,Subway,Restaurant,-10.49,,2019-01-01
+251,2019-12-04,Safeway,Food,-5.36,,2019-01-01
+252,2019-12-05,UofC Bookstore,Personal,-6.29,Bought a new clipboard (from medical bookstore),2019-01-01
+253,2019-12-06,Wellness Centre,Chiro,-40.0,They're charging me the alumni rate now,2019-01-01
+254,2019-12-06,Safeway,Food,-12.83,,2019-01-01
+255,2019-12-07,Coffee Company,Coffee,-5.2,,2019-01-01
+256,2019-12-09,Safeway,Food,-5.34,,2019-01-01
+257,2019-12-10,Coffee Company,Coffee,-5.2,,2019-01-01
+258,2019-12-10,Subway,Restaurant,-10.49,,2019-01-01
+259,2019-12-11,Safeway,Food,-3.99,,2019-01-01
+260,2019-12-11,Bound and Copied,Personal,-31.11,Printed out Jeff Nippard's book,2019-01-01
+261,2019-12-11,Subway,Restaurant,-10.49,,2019-01-01
+262,2019-12-12,Good Earth,Coffee,-9.96,,2019-01-01
+263,2019-12-12,Subway,Restaurant,-10.49,,2019-01-01
+264,2019-12-13,Coffee Company,Coffee,-5.2,,2019-01-01
+265,2019-12-13,Subway,Restaurant,-10.49,,2019-01-01
+266,2019-12-14,Liquor Depot,Alcohol,-99.85,Bought fancy alcohol for my 30th birthday =D,2019-01-01
+267,2019-12-15,Coffee Company,Coffee,-5.2,,2019-01-01
+268,2019-12-15,Korean BBQ,Restaurant,-11.5,,2019-01-01
+269,2019-12-16,Good Earth,Coffee,-11.271,Bought coffee for myself and Kylie; Gave that past student a 95% tip,2019-01-01
+270,2019-12-16,Safeway,Food,-5.99,,2019-01-01
+271,2019-12-17,Korean BBQ,Restaurant,-11.5,,2019-01-01
+272,2019-12-18,Korean BBQ,Restaurant,-11.5,,2019-01-01
+273,2019-12-20,Safeway,Food,-5.36,,2019-01-01
+274,2019-12-21,Starbucks,Coffee,-5.51,,2019-01-01
+275,2019-12-21,Safeway,Food,-5.38,,2019-01-01
+276,2019-12-21,Wal-Mart,Personal,-88.82,,2019-01-01
+277,2019-12-21,London Drugs,Personal,-15.74,Bought compressed air,2019-01-01
+278,2019-12-22,Starbucks,Coffee,-5.51,,2019-01-01
+279,2019-12-22,Safeway,Food,-5.36,,2019-01-01
+280,2019-12-23,Safeway,Food,-35.36,,2019-01-01
+281,2019-12-23,Rona,Personal,-15.204,Bought wire cutters and needlenose pliers,2019-01-01
+282,2019-12-24,Starbucks,Coffee,-4.99,Cappuccinos are gross,2019-01-01
+283,2019-12-24,Safeway,Food,-11.01,,2019-01-01
+284,2019-12-27,Safeway,Food,-20.24,,2019-01-01
+285,2019-12-27,Chatters,Hair Cut,-44.68,,2019-01-01
+286,2019-12-28,Safeway,Food,-5.36,,2019-01-01
+287,2019-12-28,Wal-Mart,Personal,-17.12,,2019-01-01
+288,2019-12-29,Safeway,Food,-31.0,,2019-01-01
+289,2019-12-30,The Hidden Spot,Restaurant,-50.42,Had drinks with William D.,2019-01-01
+290,2019-12-31,Liquor Depot,Alcohol,-31.74,,2019-01-01
+291,2019-12-31,Starbucks,Coffee,-5.51,,2019-01-01
+292,2019-12-31,Dominos,Restaurant,-55.0,,2019-01-01
+293,,Bake Chef,Restaurant,-16.0,,2019-01-01
+294,2019-12-28,Canadian Tire,Electronics,-8.379000000000001,,2019-01-01
+295,2019-12-26,Canadian Tire,Electronics,-17.839499999999997,,2019-01-01
+296,2019-02-01,Wellness Centre,Chiro,-35.0,,2019-01-01
+297,2019-02-01,Shirley,Rent,-670.0,,2019-01-01
+298,2019-02-01,Safeway,Food,-3.79,,2019-01-01
+299,2019-02-02,Safeway,Personal,-10.49,Bought toilet paper,2019-01-01
+300,2019-02-03,London Drugs,Food,-36.25,Bought lots of chocolate!,2019-01-01
+301,2019-02-05,Safeway,Food,-8.97,,2019-01-01
+302,2019-02-07,SportChek,Fitness,-104.98,Bought a new squash racquet,2019-01-01
+303,2019-02-07,Safeway,Food,-8.4,,2019-01-01
+304,2019-02-07,Subway,Restaurant,-10.8,,2019-01-01
+305,2019-02-08,Wellness Centre,Massage,-52.0,First massage,2019-01-01
+306,2019-02-08,Subway,Restaurant,-7.34,,2019-01-01
+307,2019-02-09,SportChek,Fitness,-10.49,Bought grip for the new racquet,2019-01-01
+308,2019-02-09,Uber,Transportation,-12.01,,2019-01-01
+309,2019-02-10,Safeway,Food,-8.18,,2019-01-01
+310,2019-02-10,Subway,Restaurant,-7.34,,2019-01-01
+311,2019-02-13,Safeway,Food,-12.99,,2019-01-01
+312,2019-02-13,Subway,Restaurant,-8.39,,2019-01-01
+313,2019-02-14,Safeway,Food,-8.4,,2019-01-01
+314,2019-02-16,Safeway,Food,-38.39,…..Ice cream was on sale LOL,2019-01-01
+315,2019-02-16,Subway,Restaurant,-7.34,,2019-01-01
+316,2019-02-17,Active Living,Fitness,-21.0,Rented snowshoes,2019-01-01
+317,2019-02-17,Safeway,Food,-36.54,,2019-01-01
+318,2019-02-19,Subway,Restaurant,-10.8,,2019-01-01
+319,2019-02-19,7 Eleven,Restaurant,-11.0,,2019-01-01
+320,2019-02-20,Wellness Centre,Chiro,-35.0,,2019-01-01
+321,2019-02-21,Korean BBQ,Restaurant,-11.12,,2019-01-01
+322,2019-02-27,Winners,Fitness,-41.98,Got yoga mat and foam roller,2019-01-01
+323,2019-02-27,Subway,Restaurant,-8.39,,2019-01-01
+324,2019-02-27,Walmart,Workout,-9.94,Pill cutter,2019-01-01
+325,2019-01-01,Safeway,Food,-12.59,,2019-01-01
+326,2019-01-01,Shirley,Rent,-670.0,,2019-01-01
+327,2019-01-01,Uber,Transportation,-36.84,Ubers on NYE,2019-01-01
+328,2019-01-02,Kaspersky,Electronics,-65.99,Bought Kaspersky anti-virus online,2019-01-01
+329,2019-01-02,Freedom Mobile,Personal,-21.0,Randomly put money into phone account,2019-01-01
+330,2019-01-03,Safeway,Food,-0.74,,2019-01-01
+331,2019-01-04,Safeway,Food,-16.38,,2019-01-01
+332,2019-01-04,Superstore,Food,-116.41,,2019-01-01
+333,2019-01-04,GNC,Workout,-82.9,Bought creatine and two shaker cups,2019-01-01
+334,2019-01-05,Safeway,Food,-10.63,,2019-01-01
+335,2019-01-06,Tim Horton's,Restaurant,-6.08,Went skiing with Sue Ann,2019-01-01
+336,2019-01-07,Safeway,Food,-11.56,,2019-01-01
+337,2019-01-07,Safeway,Workout,-39.71,Bought vitamins,2019-01-01
+338,2019-01-08,Safeway,Food,-6.14,,2019-01-01
+339,2019-01-08,Safeway,Workout,-27.45,Bought vitamins,2019-01-01
+340,2019-01-09,Uber,Transportation,-13.08,,2019-01-01
+341,2019-01-10,Safeway,Food,-12.86,,2019-01-01
+342,2019-01-10,Den,Restaurant,-11.5,Went to Den with Brandon,2019-01-01
+343,2019-01-12,Safeway,Food,-17.37,,2019-01-01
+344,2019-01-12,Safeway,Food,-14.0,,2019-01-01
+345,2019-01-13,Walmart,Food,-29.39,,2019-01-01
+346,2019-01-14,Bestbuy,Electronics,-41.99,Bought earphones,2019-01-01
+347,2019-01-14,Canadian Tire,Electronics,-15.74,Bought sugru,2019-01-01
+348,2019-01-14,CaravelNet,Entertainment,-13.81,Bought DROD:JtRH,2019-01-01
+349,2019-01-14,Safeway,Food,-6.2,,2019-01-01
+350,2019-01-15,Safeway,Food,-0.3,,2019-01-01
+351,2019-01-16,Safeway,Food,-53.41,Chicken breasts & thighs were on sale!,2019-01-01
+352,2019-01-18,Safeway,Food,-13.05,,2019-01-01
+353,2019-01-20,Safeway,Food,-4.08,,2019-01-01
+354,2019-01-21,Safeway,Food,-5.35,,2019-01-01
+355,2019-01-21,Calgary Transit,Monthly Pass,-5.3,,2019-01-01
+356,2019-01-22,Safeway,Food,-52.78,Bought 4 boxes of clif bars,2019-01-01
+357,2019-01-23,Wellness Centre,Chiro,-35.0,,2019-01-01
+358,2019-01-23,Chatters,Hair Cut,-32.6,,2019-01-01
+359,2019-01-23,Subway,Restaurant,-5.99,,2019-01-01
+360,2019-01-24,Old Navy Online,Clothing,-54.35,Bought some white shirts,2019-01-01
+361,2019-01-25,Dominos,Restaurant,-25.0,,2019-01-01
+362,2019-01-26,Safeway,Food,-6.2,,2019-01-01
+363,2019-01-28,Subway,Restaurant,-10.8,,2019-01-01
+364,2019-01-29,Safeway,Food,-21.26,Burgers were on sale!,2019-01-01
+365,2019-01-29,Freedom Mobile,Personal,-27.3,,2019-01-01
+366,2019-01-30,Safeway,Food,-6.2,,2019-01-01
+367,2019-01-31,Superstore,Food,-76.79,,2019-01-01
+368,2019-01-31,Safeway,Food,-48.0,Bought another 4 boxes of clif bars,2019-01-01
+369,2019-07-08,Wellness Centre,Chiro,-35.0,,2019-01-01
+370,2019-07-01,Shirley,Rent,-670.0,,2019-01-01
+371,2019-07-05,Wellness Centre,Chiro,-35.0,,2019-01-01
+372,2019-07-02,Coffee Company,Coffee,-5.7,,2019-01-01
+373,2019-07-01,Starbucks,Coffee,-5.72,DON’T BUY THE LARGE SIZED DRINK!!!!,2019-01-01
+374,2019-07-08,Starbucks,Coffee,-4.67,,2019-01-01
+375,2019-07-10,Starbucks,Coffee,-4.67,,2019-01-01
+376,2019-07-18,Starbucks,Coffee,-5.51,,2019-01-01
+377,2019-07-19,Starbucks,Coffee,-5.51,,2019-01-01
+378,2019-07-30,Coffee Company,Coffee,-5.7,,2019-01-01
+379,2019-07-29,Coffee Company,Coffee,-5.7,,2019-01-01
+380,2019-07-01,Safeway,Food,-41.74,Bought fruit for Canada Day picnic,2019-01-01
+381,2019-07-07,Safeway,Food,-9.99,,2019-01-01
+382,2019-07-08,Safeway,Food,-5.36,,2019-01-01
+383,2019-07-03,Safeway,Food,-4.09,,2019-01-01
+384,2019-07-10,Safeway,Food,-8.97,,2019-01-01
+385,2019-07-09,Safeway,Food,-5.36,,2019-01-01
+386,2019-07-15,Safeway,Food,-4.09,,2019-01-01
+387,2019-07-13,Safeway,Food,-10.99,,2019-01-01
+388,2019-07-16,Safeway,Food,-19.0,,2019-01-01
+389,2019-07-17,Safeway,Food,-7.99,,2019-01-01
+390,2019-07-19,Safeway,Food,-5.36,,2019-01-01
+391,2019-07-19,Safeway,Food,-9.99,,2019-01-01
+392,2019-07-22,Safeway,Food,-7.97,,2019-01-01
+393,2019-07-22,Safeway,Food,-3.41,,2019-01-01
+394,2019-07-27,Safeway,Food,-5.34,,2019-01-01
+395,2019-07-24,Safeway,Food,-19.82,,2019-01-01
+396,2019-07-26,Safeway,Food,-29.29,,2019-01-01
+397,2019-07-17,Safeway,Food,-7.97,,2019-01-01
+398,2019-07-31,Safeway,Food,-44.86,,2019-01-01
+399,2019-07-31,Safeway,Food,-24.75,,2019-01-01
+400,2019-07-02,Chatters,Haircut,-20.53,,2019-01-01
+401,2019-07-12,Wal-Mart,Personal,-165.19,Bought new boxers,2019-01-01
+402,2019-07-22,Safeway,Personal,-3.66,,2019-01-01
+403,2019-07-24,London Drugs,Personal,-7.13,Bought goldbond for mom,2019-01-01
+404,2019-07-04,Boston Pizza,Restaurant,-32.6,,2019-01-01
+405,2019-07-10,Subway,Restaurant,-10.8,,2019-01-01
+406,2019-07-14,Subway,Restaurant,-10.8,,2019-01-01
+407,2019-07-18,Subway,Restaurant,-10.8,,2019-01-01
+408,2019-07-23,Korean BBQ,Restaurant,-11.12,,2019-01-01
+409,2019-07-30,Bakechef,Restaurant,-8.0,,2019-01-01
+410,2019-07-29,Korean BBQ,Restaurant,-11.12,,2019-01-01
+411,2019-06-02,Subway,Restaurant,-9.96,,2019-01-01
+412,2019-06-01,Shirley,Rent,-670.0,,2019-01-01
+413,2019-06-03,Safeway,Food,-5.36,,2019-01-01
+414,2019-06-05,Safeway,Food,-22.44,,2019-01-01
+415,2019-06-04,MacHall,Restaurant,-11.54,,2019-01-01
+416,2019-06-06,Subway,Restaurant,-10.49,,2019-01-01
+417,2019-06-04,Safeway,Food,-24.96,,2019-01-01
+418,2019-06-11,Safeway,Food,-28.69,,2019-01-01
+419,2019-06-13,Safeway,Food,-6.99,,2019-01-01
+420,2019-06-11,Subway,Restaurant,-9.96,,2019-01-01
+421,2019-06-15,Rosso Coffee,Restaurant,-5.72,Cheryl,2019-01-01
+422,2019-06-13,Subway,Restaurant,-10.5,,2019-01-01
+423,2019-06-09,Safeway,Food,-6.99,,2019-01-01
+424,2019-06-14,Subway,Restaurant,-9.96,,2019-01-01
+425,2019-06-16,Subway,Restaurant,-9.96,,2019-01-01
+426,2019-06-21,Wellness Center,Chiro,-35.0,,2019-01-01
+427,2019-06-21,Safeway,Food,-5.36,,2019-01-01
+428,2019-06-18,Subway,Restaurant,-6.29,,2019-01-01
+429,2019-06-19,Safeway,Food,-9.65,,2019-01-01
+430,2019-06-17,Subway,Restaurant,-9.96,,2019-01-01
+431,2019-06-24,Safeway,Food,-5.36,,2019-01-01
+432,2019-06-26,Safeway,Food,-77.58,Chicken breasts on sale,2019-01-01
+433,2019-06-20,Coffee Company,Restaurant,-8.5,Bought Kai and myself a coffee,2019-01-01
+434,2019-06-28,Safeway,Food,-23.98,,2019-01-01
+435,2019-06-28,Starbucks,Restaurant,-4.99,,2019-01-01
+436,2019-06-28,Safeway,Food,-21.61,Bought draino too,2019-01-01
+437,2019-06-30,Starbucks,Restaurant,-5.51,,2019-01-01
+438,2019-06-30,Safeway,Food,-5.36,,2019-01-01
+439,2019-06-30,Safeway,Food,-5.06,Bought cutlery for picnic,2019-01-01
+440,2019-03-02,Subway,Restaurant,-10.8,,2019-01-01
+441,2019-03-01,Shirley,Rent,-670.0,,2019-01-01
+442,2019-03-03,Safeway,Food,-14.56,,2019-01-01
+443,2019-03-04,Safeway,Food,-2.49,Got $8 worth of free AAAs!,2019-01-01
+444,2019-03-04,Subway,Restaurant,-7.34,,2019-01-01
+445,2019-03-06,Korean BBQ,Restaurant,-11.12,,2019-01-01
+446,2019-03-07,Subway,Restaurant,-9.96,,2019-01-01
+447,2019-03-10,Safeway,Food,-20.32,,2019-01-01
+448,2019-03-10,Opa,Restaurant,-11.12,,2019-01-01
+449,2019-03-08,Safeway,Food,-38.97,,2019-01-01
+450,2019-03-08,Subway,Restaurant,-9.96,,2019-01-01
+451,2019-03-09,Subway,Restaurant,-11.12,,2019-01-01
+452,2019-03-12,Calgary Transit,Bus Pass,-5.3,,2019-01-01
+453,2019-03-13,Tim Hortons,Restaurant,-1.8,,2019-01-01
+454,2019-03-14,Chatters,Hair Cut,-44.68,Met with James today,2019-01-01
+455,2019-03-14,Subway,Restaurant,-11.02,,2019-01-01
+456,2019-03-14,Tim Hortons,Restaurant,-1.8,,2019-01-01
+457,2019-03-22,Subway,Restaurant,-11.12,,2019-01-01
+458,2019-03-20,Subway,Restaurant,-11.12,,2019-01-01
+459,2019-03-17,Subway,Restaurant,-11.12,,2019-01-01
+460,2019-03-16,Korean BBQ,Restaurant,-11.12,,2019-01-01
+461,2019-03-14,Safeway,Food,-28.38,,2019-01-01
+462,2019-03-20,Safeway,Food,-29.63,,2019-01-01
+463,2019-03-17,Safeway,Food,-18.55,,2019-01-01
+464,2019-03-18,Subway,Restaurant,-11.12,,2019-01-01
+465,2019-03-15,Subway,Restaurant,-11.12,,2019-01-01
+466,2019-03-18,Starbucks,Restaurant,-4.67,,2019-01-01
+467,2019-03-16,Safeway,Fitness,-1.56,,2019-01-01
+468,2019-03-24,Subway,Restaurant,-9.96,,2019-01-01
+469,2019-03-27,Subway,Restaurant,-8.7,,2019-01-01
+470,2019-03-28,Safeway,Food,-26.28,,2019-01-01
+471,2019-03-31,Wal-Mart,Personal,-80.68,,2019-01-01
+472,2019-03-30,Safeway,Food,-26.05,,2019-01-01
+473,2019-03-29,Subway,Restaurant,-9.96,,2019-01-01
+474,2019-03-25,Starbucks,Restaurant,-5.51,,2019-01-01
+475,2019-03-28,Subway,Restaurant,-9.96,,2019-01-01
+476,2019-03-25,Safeway,Food,-17.34,,2019-01-01
+477,2019-03-29,Safeway,Food,-34.84,,2019-01-01
+478,2019-03-26,Subway,Restaurant,-8.7,,2019-01-01
+479,2019-03-23,Subway,Restaurant,-9.96,,2019-01-01
+480,2019-05-01,Safeway,Food,-2.49,,2019-01-01
+481,2019-05-01,Shirley,Rent,-670.0,,2019-01-01
+482,2019-05-01,Superstore,Food,-104.61,,2019-01-01
+483,2019-05-03,Safeway,Food,-25.49,,2019-01-01
+484,2019-05-04,Safeway,Food,-5.36,,2019-01-01
+485,2019-05-05,Safeway,Food,-5.36,,2019-01-01
+486,2019-05-08,Wal-Mart,Personal,-69.69,,2019-01-01
+487,2019-05-09,Safeway,Food,-42.88,,2019-01-01
+488,2019-05-09,Safeway,Food,-7.76,,2019-01-01
+489,2019-05-10,Safeway,Food,-12.27,,2019-01-01
+490,2019-05-11,Safeway,Food,-4.55,,2019-01-01
+491,2019-05-13,Subway,Restaurant,-9.96,,2019-01-01
+492,2019-05-13,Wendy's,Restaurant,-2.39,Bought lemonade,2019-01-01
+493,2019-05-15,Safeway,Food,-33.86,Bought cold medicine,2019-01-01
+494,2019-05-16,Safeway,Food,-12.41,,2019-01-01
+495,2019-05-17,Safeway,Food,-9.23,,2019-01-01
+496,2019-05-18,JPs Indian Bistro,Restaurant,-35.94,,2019-01-01
+497,2019-05-19,Dairy Queen,Restaurant,-17.28,Last episode of GoT!!,2019-01-01
+498,2019-05-21,Safeway,Food,-8.28,,2019-01-01
+499,2019-05-21,Subway,Restaurant,-6.29,,2019-01-01
+500,2019-05-21,Kim Chi House,Restaurant,-16.45,,2019-01-01
+501,2019-05-22,Safeway,Food,-5.13,,2019-01-01
+502,2019-05-22,Safeway,Food,-11.99,,2019-01-01
+503,2019-05-23,Subway,Restaurant,-9.49,,2019-01-01
+504,2019-05-24,Edo,Restaurant,-10.08,,2019-01-01
+505,2019-05-24,Wellness Centre,Chiro,-35.0,,2019-01-01
+506,2019-05-25,Safeway,Food,-29.36,,2019-01-01
+507,2019-05-25,Higher Ground,Restaurant,-6.41,,2019-01-01
+508,2019-05-25,Water Lantern,Restaurant,-20.0,,2019-01-01
+509,2019-05-25,Earl's,Restaurant,-44.2972,,2019-01-01
+510,2019-05-26,Safeway,Food,-5.36,,2019-01-01
+511,2019-05-27,Safeway,Food,-6.99,,2019-01-01
+512,2019-05-27,Tipperary's Pub,Restaurant,-48.0,,2019-01-01
+513,2019-05-28,Safeway,Food,-9.68,,2019-01-01
+514,2019-05-29,Safeway,Food,-5.36,,2019-01-01
+515,2019-05-29,Superstore,Food,-106.68,,2019-01-01
+516,2019-05-29,Safeway,Food,-3.49,,2019-01-01
+517,2019-05-31,Liquor Depot,Personal,-10.58,,2019-01-01
+518,2019-05-31,Safeway,Food,-5.36,,2019-01-01
+519,2019-05-31,Safeway,Food,-17.16,,2019-01-01
+520,2019-05-31,Chatters,Hair Cut,-44.68,,2019-01-01
+521,2019-11-01,Liquor Depot,Alcohol,-12.25,,2019-01-01
+522,2019-11-01,Shirley,Rent,-670.0,,2019-01-01
+523,2019-11-24,Le Chateau,Clothing,-23.1,Bought tie clip,2019-01-01
+524,2019-11-01,Coffee Company,Coffee,-5.2,,2019-01-01
+525,2019-11-05,Coffee Company,Coffee,-5.2,,2019-01-01
+526,2019-11-07,Coffee Company,Coffee,-5.2,,2019-01-01
+527,2019-11-11,Starbucks,Coffee,-5.51,,2019-01-01
+528,2019-11-17,Starbucks,Coffee,-5.51,,2019-01-01
+529,2019-11-22,Starbucks,Coffee,-5.51,,2019-01-01
+530,2019-11-23,Coffee Company,Coffee,-5.2,,2019-01-01
+531,2019-11-24,Starbucks,Coffee,-5.51,,2019-01-01
+532,2019-11-27,Coffee Company,Coffee,-5.2,,2019-01-01
+533,2019-11-03,Safeway,Food,-5.36,,2019-01-01
+534,2019-11-05,Safeway,Food,-5.36,,2019-01-01
+535,2019-11-08,Safeway,Food,-4.99,,2019-01-01
+536,2019-11-09,Safeway,Food,-3.11,,2019-01-01
+537,2019-11-13,Safeway,Food,-4.84,Egg Nog!!!,2019-01-01
+538,2019-11-14,Safeway,Food,-5.99,,2019-01-01
+539,2019-11-17,Safeway,Food,-14.99,,2019-01-01
+540,2019-11-18,Safeway,Food,-18.98,,2019-01-01
+541,2019-11-20,Safeway,Food,-38.05,Bought lots of energy drinks for HHW,2019-01-01
+542,2019-11-21,Safeway,Food,-20.98,,2019-01-01
+543,2019-11-22,Safeway,Food,-3.24,,2019-01-01
+544,2019-11-26,Safeway,Food,-5.99,,2019-01-01
+545,2019-11-27,Safeway,Food,-14.99,,2019-01-01
+546,2019-11-27,Safeway,Food,-6.2,,2019-01-01
+547,2019-11-28,Safeway,Food,-5.99,,2019-01-01
+548,2019-11-29,Safeway,Food,-14.99,,2019-01-01
+549,2019-11-24,Chatters,Hair Cut,-39.85,Met with Cindy(?) today,2019-01-01
+550,2019-11-01,London Drugs,Personal,-4.19,Bought housewarming gift for Jeremy and Roxanne,2019-01-01
+551,2019-11-01,Bed Bath & Beyond,Personal,-100.0,Bought housewarming gift for Jeremy and Roxanne,2019-01-01
+552,2019-11-05,Canada Post,Personal,-17.43,Sent reply to CRA about 2018 tax return,2019-01-01
+553,2019-11-09,Dollarama,Personal,-13.53,Bought $63.53 worth of personal stuff for Bibi's house,2019-01-01
+554,2019-11-15,London Drugs,Personal,-11.54,Bought Ferrero Rocher for Masi,2019-01-01
+555,2019-11-16,Sunridge Mall Kiosk,Personal,-36.75,Paid G-pa's phone bill (included 500MB data plan),2019-01-01
+556,2019-11-20,London Drugs,Personal,-5.76,Bought (crappy) scotch tape,2019-01-01
+557,2019-11-01,Wendy's,Restauran,-21.89,,2019-01-01
+558,2019-11-01,Subway,Restauran,-6.39,,2019-01-01
+559,2019-11-04,Korean BBQ,Restauran,-11.5,,2019-01-01
+560,2019-11-06,Subway,Restauran,-10.49,,2019-01-01
+561,2019-11-07,Subway,Restauran,-10.49,,2019-01-01
+562,2019-11-08,Korean BBQ,Restauran,-11.5,,2019-01-01
+563,2019-11-12,Dominos,Restauran,-25.18,,2019-01-01
+564,2019-11-19,Wendy's,Restauran,-7.21,,2019-01-01
+565,2019-11-19,Subway,Restauran,-10.49,,2019-01-01
+566,2019-11-20,Subway,Restauran,-10.49,,2019-01-01
+567,2019-11-21,Subway,Restauran,-10.49,,2019-01-01
+568,2019-11-22,Subway,Restauran,-10.49,,2019-01-01
+569,2019-11-22,Wendy's,Restauran,-7.21,,2019-01-01
+570,2019-11-25,Telus Spark,Restauran,-18.35,,2019-01-01
+571,2019-11-26,Subway,Restauran,-10.49,,2019-01-01
+572,2019-11-28,Subway,Restauran,-10.49,,2019-01-01
+573,2019-11-29,PLC,Restauran,-11.7,,2019-01-01
+574,2019-11-30,Supreme Pizza,Restauran,-32.6,Bought pizza for famliy,2019-01-01
+575,,Bake Chef,Restauran,-32.0,,2019-01-01
+576,2019-10-06,Safeway,Food,-26.2,,2019-01-01
+577,2019-10-01,Shirley,Rent,-670.0,,2019-01-01
+578,2019-10-06,Subway,Restaurant,-10.49,,2019-01-01
+579,2019-10-14,Safeway,Food,-7.99,,2019-01-01
+580,2019-10-05,Safeway,Food,-37.91,,2019-01-01
+581,2019-10-13,Coffee Company,Coffee,-7.3,,2019-01-01
+582,2019-10-10,Safeway,Food,-7.99,,2019-01-01
+583,2019-10-03,Subway,Restaurant,-10.28,,2019-01-01
+584,2019-10-03,Safeway,Food,-36.23,,2019-01-01
+585,2019-10-03,Starbucks,Coffee,-5.51,,2019-01-01
+586,2019-10-14,Coffee Company,Coffee,-5.2,,2019-01-01
+587,2019-10-04,Subway,Restaurant,-10.28,,2019-01-01
+588,2019-10-11,Safeway,Food,-5.36,,2019-01-01
+589,2019-10-01,Safeway,Food,-35.69,,2019-01-01
+590,2019-10-07,Subway,Restaurant,-9.96,,2019-01-01
+591,2019-10-12,Liquor Depot,Alcohol,-19.6,,2019-01-01
+592,2019-10-01,South St Burger,Restaurant,-13.11,Bought new shoes today,2019-01-01
+593,2019-10-09,Starbucks,Coffee,-5.51,,2019-01-01
+594,2019-10-11,Starbucks,Coffee,-5.51,,2019-01-01
+595,2019-10-11,Registry Express Inc,Personal,-22.45,Got drivers license today,2019-01-01
+596,2019-10-09,Frank Driving School,Personal,-68.25,,2019-01-01
+597,2019-10-08,Subway,Restaurant,-10.49,,2019-01-01
+598,2019-10-15,Subway,Restaurant,-10.49,,2019-01-01
+599,2019-10-15,Starbucks,Coffee,-4.67,,2019-01-01
+600,2019-10-29,Coffee Company,Coffee,-5.2,,2019-01-01
+601,2019-10-24,Starbucks,Coffee,-5.51,,2019-01-01
+602,2019-10-22,Korean BBQ,Restaurant,-11.5,,2019-01-01
+603,2019-10-20,Coffee Company,Coffee,-5.2,,2019-01-01
+604,2019-10-25,Safeway,Food,-7.99,Bought chips and cookies for meeting with Maggie,2019-01-01
+605,2019-10-18,Safeway,Food,-6.99,,2019-01-01
+606,2019-10-29,Korean BBQ,Restaurant,-11.5,,2019-01-01
+607,2019-10-28,Subway,Restaurant,-10.49,,2019-01-01
+608,2019-10-30,Coffee Company,Coffee,-5.2,,2019-01-01
+609,2019-10-19,Coffee Company,Coffee,-5.2,,2019-01-01
+610,2019-10-23,Safeway,Food,-6.99,,2019-01-01
+611,2019-10-31,Korean BBQ,Restaurant,-11.5,,2019-01-01
+612,2019-10-30,Subway,Restaurant,-10.49,,2019-01-01
+613,2019-10-20,Safeway,Food,-6.99,,2019-01-01
+614,2019-10-18,Starbucks,Coffee,-5.51,,2019-01-01
+615,2019-10-25,Chatters,Hair Cut,-44.68,,2019-01-01
+616,2019-10-21,Subway,Restaurant,-10.49,,2019-01-01
+617,2019-10-24,Subway,Restaurant,-10.49,,2019-01-01
+618,2019-10-27,Coffee Company,Coffee,-5.2,,2019-01-01
+619,2019-10-25,Liquor Depot,Alcohol,-17.91,,2019-01-01
+620,2019-10-12,Safeway,Food,-9.87,,2019-01-01
+621,2019-10-16,Starbucks,Coffee,-5.51,,2019-01-01
+622,2019-10-25,Subway,Restaurant,-10.49,,2019-01-01
+623,2019-10-22,Safeway,Food,-17.47,,2019-01-01
+624,2019-10-26,Korean BBQ,Restaurant,-11.5,,2019-01-01
+625,2019-10-18,Safeway,Medicine,-4.19,Bought lemon Halls,2019-01-01
+626,2019-10-23,Korean BBQ,Restaurant,-11.5,,2019-01-01
+627,2019-10-22,Korean BBQ,Restaurant,-11.5,,2019-01-01
+628,2019-10-30,Safeway,Food,-7.99,,2019-01-01
+629,2019-10-25,Wendy's,Restaurant,-22.94,,2019-01-01
+630,2019-10-19,Subway,Restaurant,-10.49,,2019-01-01
+631,2019-10-17,Starbucks,Coffee,-5.51,,2019-01-01
+632,2019-10-22,Coffee Company,Coffee,-5.2,,2019-01-01
+633,2019-10-31,Bake Chef Co,Restaurant,-16.0,Wasn't sure on what days I went to Bake Chef,2019-01-01
+634,2019-10-31,Safeway,Food,-20.56,,2019-01-01
+635,2019-09-01,Safeway,Cleaning,-6.59,,2019-01-01
+636,2019-09-01,Shirley,Rent,-670.0,,2019-01-01
+637,2019-09-01,Safeway,Food,-6.49,,2019-01-01
+638,2019-09-01,Peter Lougheed,Restaurant,-21.0,,2019-01-01
+639,2019-09-02,Peter Lougheed,Restaurant,-17.6,,2019-01-01
+640,2019-09-02,Superstore,Food,-219.28999999999996,"Bough rice cooker, then returned later.",2019-01-01
+641,2019-09-04,Safeway,Food,-7.97,,2019-01-01
+642,2019-09-05,Peter Lougheed,Restaurant,-21.35,,2019-01-01
+643,2019-09-04,Safeway,Food,-5.89,,2019-01-01
+644,2019-09-06,Safeway,Food,-5.36,,2019-01-01
+645,2019-09-04,Dollarama,Personal,-4.54,,2019-01-01
+646,2019-09-03,Starbucks,Coffee,-5.51,,2019-01-01
+647,2019-09-05,Chatters,Hair Cut,-44.68,,2019-01-01
+648,2019-09-06,Opa,Restaurant,-11.12,,2019-01-01
+649,2019-09-03,Safeway,Food,-5.36,,2019-01-01
+650,2019-09-02,Safeway,Personal,-11.54,Bought 6 rolls of paper towels,2019-01-01
+651,2019-09-06,Wellness Centre,Chiro,-35.0,,2019-01-01
+652,2019-09-03,Peter Lougheed,Restaurant,-13.7,,2019-01-01
+653,2019-09-04,Peter Lougheed,Restaurant,-18.9,,2019-01-01
+654,2019-09-03,Canada Post,Mail,-20.81,Sent Clayton's Mail,2019-01-01
+655,2019-09-07,Safeway,Food,-6.48,,2019-01-01
+656,2019-09-08,Peter Lougheed,Restaurant,-17.2,,2019-01-01
+657,2019-09-10,Superstore,Food,-94.19,Used one Shake & Bake coupon today,2019-01-01
+658,2019-09-11,Starbucks,Coffee,-5.51,,2019-01-01
+659,2019-09-10,Safeway,Food,-5.36,,2019-01-01
+660,2019-09-10,Wellness Centre,Massage,-90.0,"Had a massage from Garner B. today for an hour. Talked about his powerlifting history, and his role at the VIVO gym in Calgary. He showed me some pictures/videos of him and his wife afterwards lifting. Invited me to come to VIVO.",2019-01-01
+661,2019-09-15,Coffee Company,Coffee,-5.7,,2019-01-01
+662,2019-09-13,Safeway,Food,-8.16,,2019-01-01
+663,2019-09-14,Dominos,Restaurant,-75.59,Had pizza party with housemates today,2019-01-01
+664,2019-09-13,Starbucks,Coffee,-5.51,,2019-01-01
+665,2019-09-14,Wal-Mart,Personal,-80.78,"Bought new garbage can ($33.97+GST), and clothing for Bibi",2019-01-01
+666,2019-09-17,Safeway,Food,-46.26,,2019-01-01
+667,2019-09-20,Coffee Company,Coffee,-5.7,,2019-01-01
+668,2019-09-21,Safeway,Food,-5.36,,2019-01-01
+669,2019-09-16,Starbucks,Coffee,-5.51,,2019-01-01
+670,2019-09-21,Superstore,Food,-67.28,,2019-01-01
+671,2019-09-16,Active Living,Workout,-546.0,Bought gym membership,2019-01-01
+672,2019-09-20,Bake Chef,Restaurant,-3.4,,2019-01-01
+673,2019-09-19,Blaze Pizza,Restaurant,-14.33,Yusra's birthday,2019-01-01
+674,2019-09-18,Coffee Company,Coffee,-5.7,,2019-01-01
+675,2019-09-22,Korean BBQ,Restaurant,-11.95,,2019-01-01
+676,2019-09-22,Safeway,Food,-14.59,Got sick on Sunday!,2019-01-01
+677,2019-09-25,Korean BBQ,Restaurant,-11.5,,2019-01-01
+678,2019-09-26,Bake Chef,Restaurant,-8.0,,2019-01-01
+679,2019-09-26,Safeway,Food,-4.33,,2019-01-01
+680,2019-09-26,Subway,Restaurant,-6.71,,2019-01-01
+681,2019-09-26,Good Earth,Coffee,-2.76,,2019-01-01
+682,2019-09-27,Safeway,Food,-21.91,,2019-01-01
+683,2019-09-27,Good Earth,Coffee,-3.03,Bought coffee for Simon as well,2019-01-01
+684,2019-09-29,Safeway,Food,-5.36,,2019-01-01
+685,2020-04-01,Safeway,Food,-5.37,,2020-01-01
+686,2020-04-01,Shirley,Rent,-670.0,,2020-01-01
+687,2020-04-01,Starbucks,Coffee,-4.67,,2020-01-01
+688,2020-04-03,Safeway,Food,-5.37,,2020-01-01
+689,2020-04-03,Starbucks,Coffee,-4.67,,2020-01-01
+690,2020-04-05,Safeway,Food,-25.56,,2020-01-01
+691,2020-04-05,London Drugs,Entertainment,-78.74,Bought a PS4 controller,2020-01-01
+692,2020-04-06,Starbucks,Coffee,-5.2,,2020-01-01
+693,2020-04-06,Safeway,Food,-5.34,,2020-01-01
+694,2020-04-07,Safeway,Food,-13.33,,2020-01-01
+695,2020-04-08,Safeway,Food,-5.34,,2020-01-01
+696,2020-04-08,Starbucks,Coffee,-5.2,,2020-01-01
+697,2020-04-09,Starbucks,Coffee,-4.67,,2020-01-01
+698,2020-04-09,Safeway,Food,-5.34,,2020-01-01
+699,2020-04-10,Safeway,Food,-5.37,,2020-01-01
+700,2020-04-10,Safeway,Food,-12.85,,2020-01-01
+701,2020-04-11,Safeway,Food,-4.98,,2020-01-01
+702,2020-04-11,Opa,Restaurant,-11.43,,2020-01-01
+703,2020-04-11,Superstore,Food,-153.73,Bought some groceries for mom as well,2020-01-01
+704,2020-04-13,Opa,Restaurant,-11.96,,2020-01-01
+705,2020-04-13,Starbucks,Coffee,-4.67,,2020-01-01
+706,2020-04-12,Opa,Restaurant,-11.43,,2020-01-01
+707,2020-04-13,Safeway,Food,-24.65,,2020-01-01
+708,2020-04-14,Starbucks,Coffee,-4.67,,2020-01-01
+709,2020-04-15,Safeway,Food,-5.34,,2020-01-01
+710,2020-04-16,Safeway,Food,-5.37,,2020-01-01
+711,2020-04-16,Starbucks,Coffee,-5.2,,2020-01-01
+712,2020-04-20,Safeway,Food,-25.32,,2020-01-01
+713,2020-04-20,Starbucks,Coffee,-5.2,,2020-01-01
+714,2020-04-21,Safeway,Food,-5.34,,2020-01-01
+715,2020-04-21,Starbucks,Coffee,-5.2,,2020-01-01
+716,2020-04-26,Safeway,Food,-6.99,,2020-01-01
+717,2020-04-22,Safeway,Food,-20.79,,2020-01-01
+718,2020-04-24,Safeway,Food,-10.83,,2020-01-01
+719,2020-04-28,Safeway,Food,-5.37,,2020-01-01
+720,2020-04-23,Safeway,Food,-5.34,,2020-01-01
+721,2020-04-28,Starbucks,Coffee,-4.67,,2020-01-01
+722,2020-04-24,Starbucks,Coffee,-5.72,,2020-01-01
+723,2020-04-29,Safeway,Food,-28.44,,2020-01-01
+724,2020-04-30,Safeway,Food,-9.78,,2020-01-01
+725,2020-04-30,Starbucks,Coffee,-5.2,,2020-01-01
+726,2020-08-01,Starbucks,Coffee,-5.2,,2020-01-01
+727,2020-08-01,Shirley,Rent,-670.0,,2020-01-01
+728,2020-08-05,Starbucks,Coffee,-5.2,,2020-01-01
+729,2020-08-12,Starbucks,Coffee,-5.2,,2020-01-01
+730,2020-08-22,Starbucks,Coffee,-5.2,,2020-01-01
+731,2020-08-31,Starbucks,Coffee,-5.2,,2020-01-01
+732,2020-08-01,Safeway,Food,-37.95,,2020-01-01
+733,2020-08-04,Safeway,Food,-13.36,,2020-01-01
+734,2020-08-05,Safeway,Food,-11.94,,2020-01-01
+735,2020-08-07,Safeway,Food,-11.94,,2020-01-01
+736,2020-08-09,Safeway,Food,-13.93,,2020-01-01
+737,2020-08-10,Safeway,Food,-9.95,,2020-01-01
+738,2020-08-10,Safeway,Food,-11.94,,2020-01-01
+739,2020-08-11,Safeway,Food,-27.43,,2020-01-01
+740,2020-08-12,Safeway,Food,-12.96,,2020-01-01
+741,2020-08-13,Safeway,Food,-15.82,,2020-01-01
+742,2020-08-15,Safeway,Food,-9.6,,2020-01-01
+743,2020-08-17,Safeway,Food,-16.96,,2020-01-01
+744,2020-08-18,Safeway,Food,-14.25,,2020-01-01
+745,2020-08-19,Safeway,Food,-31.57,,2020-01-01
+746,2020-08-22,Safeway,Food,-13.36,,2020-01-01
+747,2020-08-20,Safeway,Food,-5.37,,2020-01-01
+748,2020-08-21,Safeway,Food,-19.93,,2020-01-01
+749,2020-08-25,Safeway,Food,-4.47,,2020-01-01
+750,2020-08-24,Safeway,Food,-4.99,Had meeting with TD today,2020-01-01
+751,2020-08-24,Safeway,Food,-4.47,,2020-01-01
+752,2020-08-26,Safeway,Food,-20.33,,2020-01-01
+753,2020-08-27,Safeway,Food,-14.8,,2020-01-01
+754,2020-08-29,Safeway,Food,-9.46,,2020-01-01
+755,2020-08-31,Safeway,Food,-33.57,,2020-01-01
+756,2020-08-14,London Drugs,Personal,-35.0,Purchased bus tickets,2020-01-01
+757,2020-08-16,Wal-Mart,Personal,-23.05,Purchased dishwasher pods and toilet paper for Dan,2020-01-01
+758,2020-08-25,Safeway,Personal,-7.34,Bought tissue paper,2020-01-01
+759,2020-08-08,McDonalds,Restaurant,-15.27,Doordash,2020-01-01
+760,2020-08-07,Popeyes Chicken,Restaurant,-50.61,Doordash,2020-01-01
+761,2020-08-29,Denny's,Restaurant,-15.93,"Helped Dan move some furniture in his house, with Ryan Morrill",2020-01-01
+762,2020-08-30,Wendy's,Restaurant,-25.44,,2020-01-01
+763,2020-12-01,Safeway,Food,-11.34,,2020-01-01
+764,2020-12-03,Safeway,Food,-16.34,,2020-01-01
+765,2020-12-05,Safeway,Food,-10.46,,2020-01-01
+766,2020-12-04,McDonald's,Restaurant,-19.38,,2020-01-01
+767,2020-12-06,Safeway,Food,-17.18,,2020-01-01
+768,2020-12-08,Safeway,Food,-11.01,Bought rotisserie chicken to make tacos,2020-01-01
+769,2020-12-09,Safeway,Food,-5.37,,2020-01-01
+770,2020-12-08,Safeway,Food,-9.86,,2020-01-01
+771,2020-12-12,Chatters,Hair Cut,-44.6,,2020-01-01
+772,2020-12-12,Safeway,Food,-11.94,,2020-01-01
+773,2020-12-09,Safeway,Food,-32.73,,2020-01-01
+774,2020-12-15,Safeway,Food,-26.87,,2020-01-01
+775,2020-12-17,Safeway,Food,-17.83,,2020-01-01
+776,2020-12-20,Safeway,Food,-11.94,,2020-01-01
+777,2020-12-22,Safeway,Food,-87.09,,2020-01-01
+778,2020-12-22,Safeway,Food,-4.69,,2020-01-01
+779,2020-12-26,Safeway,Food,-17.31,,2020-01-01
+780,2020-12-28,Safeway,Food,-25.97,,2020-01-01
+781,2020-12-29,Safeway,Food,-17.31,,2020-01-01
+782,2020-12-30,Safeway,Food,-45.78,,2020-01-01
+783,2020-02-22,Starbucks,Coffee,-4.99,,2020-01-01
+784,2020-02-01,Shirley,Rent,-670.0,,2020-01-01
+785,2020-02-08,Starbucks,Coffee,-5.51,,2020-01-01
+786,2020-02-20,Starbucks,Coffee,-5.51,,2020-01-01
+787,2020-02-27,Starbucks,Coffee,-5.51,,2020-01-01
+788,2020-02-06,Starbucks,Coffee,-5.51,,2020-01-01
+789,2020-02-28,Starbucks,Coffee,-16.54,Bought Anna & Aija coffee,2020-01-01
+790,2020-02-17,Starbucks,Coffee,-5.51,,2020-01-01
+791,2020-02-07,Coffee Company,Coffee,-5.2,,2020-01-01
+792,2020-02-25,Starbucks,Coffee,-5.51,,2020-01-01
+793,2020-02-01,Safeway,Food,-45.08,,2020-01-01
+794,2020-02-07,Safeway,Food,-16.65,,2020-01-01
+795,2020-02-08,Safeway,Food,-13.13,,2020-01-01
+796,2020-02-02,Safeway,Food,-35.64,,2020-01-01
+797,2020-02-24,Safeway,Food,-28.3,,2020-01-01
+798,2020-02-12,Safeway,Food,-13.98,,2020-01-01
+799,2020-02-22,Safeway,Food,-5.99,,2020-01-01
+800,2020-02-17,Safeway,Food,-8.84,,2020-01-01
+801,2020-02-25,Safeway,Food,-5.99,,2020-01-01
+802,2020-02-20,Safeway,Food,-8.45,,2020-01-01
+803,2020-02-28,Safeway,Food,-34.25,,2020-01-01
+804,2020-02-23,Safeway,Food,-11.98,,2020-01-01
+805,2020-02-20,Safeway,Food,-36.02,,2020-01-01
+806,2020-02-21,Safeway,Food,-11.99,,2020-01-01
+807,2020-02-14,Safeway,Food,-8.5,,2020-01-01
+808,2020-02-11,Safeway,Food,-11.99,,2020-01-01
+809,2020-02-09,Safeway,Food,-25.27,,2020-01-01
+810,2020-02-25,Safeway,Food,-10.48,,2020-01-01
+811,2020-02-22,Safeway,Food,-5.37,,2020-01-01
+812,2020-02-29,Safeway,Food,-20.37,Bread was on sale!,2020-01-01
+813,2020-02-11,Chatters,Hair Cut,-32.6,,2020-01-01
+814,2020-02-13,London Drugs,Personal,-10.49,,2020-01-01
+815,2020-02-15,Safeway,Personal,-23.39,Bought toilet paper,2020-01-01
+816,2020-02-10,Korean BBQ,Restaurant,-11.5,,2020-01-01
+817,2020-01-01,Shirley,Rent,-670.0,,2020-01-01
+818,2020-01-02,Safeway,Food,-22.07,,2020-01-01
+819,2020-01-02,Uber,Uber,-24.76,,2020-01-01
+820,2020-01-03,Safeway,Food,-21.28,,2020-01-01
+821,2020-01-04,Superstore,Food,-147.59,,2020-01-01
+822,2020-01-05,Safeway,Food,-15.93,,2020-01-01
+823,2020-01-05,Safeway,Food,-3.98,,2020-01-01
+824,2020-01-06,Active Living,Locker,-151.0,Paid $25 deposit. Dates valid: Jan 6-Sept 15,2020-01-01
+825,2020-01-07,Safeway,Food,-25.15,,2020-01-01
+826,2020-01-09,Starbucks,Coffee,-5.51,,2020-01-01
+827,2020-01-10,A/Maze,Entertainment,-31.5,Went to an escape room with Lucas and friends,2020-01-01
+828,2020-01-10,Safeway,Food,-9.7,,2020-01-01
+829,2020-01-11,H & M,Clothing,-27.27,Bought kids clothes for Masi,2020-01-01
+830,2020-01-11,Calgary Tower,Entertainment,-56.7,"Bought three tickets for myself, Mom, and Masi",2020-01-01
+831,2020-01-11,Safeway,Personal,-9.96,,2020-01-01
+832,2020-01-12,Safeway,Food,-33.86,,2020-01-01
+833,2020-01-14,Safeway,Food,-30.68,,2020-01-01
+834,2020-01-17,Starbucks,Coffee,-5.51,,2020-01-01
+835,2020-01-17,Safeway,Food,-74.15,Pasta stuff was on sale,2020-01-01
+836,2020-01-17,London Drugs,Personal,-4.19,Bought Halls,2020-01-01
+837,2020-01-18,Safeway,Food,-14.99,,2020-01-01
+838,2020-01-18,Justice,Personal,-8.4,Bought shoes from Crossiron for my niece,2020-01-01
+839,2020-01-19,Safeway,Food,-5.6,,2020-01-01
+840,2020-01-19,Safeway,Food,-4.99,,2020-01-01
+841,2020-01-19,London Drugs,Personal,-13.64,Bought Hydralyte powder,2020-01-01
+842,2020-01-21,Safeway,Food,-14.15,,2020-01-01
+843,2020-01-22,Safeway,Food,-50.21,Chicken thighs were on sale,2020-01-01
+844,2020-01-25,Safeway,Food,-10.98,I got sick on this day,2020-01-01
+845,2020-01-27,Safeway,Food,-8.82,I was sick,2020-01-01
+846,2020-01-28,Safeway,Food,-28.78,I was sick,2020-01-01
+847,2020-01-29,Wendy's,Restaurant,-5.86,Bought when I was sick,2020-01-01
+848,2020-01-30,Safeway,Food,-8.99,,2020-01-01
+849,2020-01-30,Korean BBQ,Restaurant,-11.5,Finally starting to feel better,2020-01-01
+850,2020-01-31,Coffee Company,Coffee,-5.2,,2020-01-01
+851,2020-01-31,Safeway,Food,-21.97,Finally got over my sickness,2020-01-01
+852,2020-07-03,Starbucks,Coffee,-5.2,,2020-01-01
+853,2020-07-01,Shirley,Rent,-670.0,,2020-01-01
+854,2020-07-04,Starbucks,Coffee,-5.93,Flat white,2020-01-01
+855,2020-07-06,Starbucks,Coffee,-5.2,,2020-01-01
+856,2020-07-07,Starbucks,Coffee,-4.67,,2020-01-01
+857,2020-07-11,Starbucks,Coffee,-5.41,Flat white,2020-01-01
+858,2020-07-14,Starbucks,Coffee,-5.2,,2020-01-01
+859,2020-07-16,Starbucks,Coffee,-5.2,,2020-01-01
+860,2020-07-18,Starbucks,Coffee,-5.41,Caramel macchiato?,2020-01-01
+861,2020-07-19,Starbucks,Coffee,-5.2,,2020-01-01
+862,2020-07-20,Starbucks,Coffee,-5.2,,2020-01-01
+863,2020-07-23,Starbucks,Coffee,-5.2,,2020-01-01
+864,2020-07-25,Starbucks,Coffee,-5.2,,2020-01-01
+865,2020-07-27,Starbucks,Coffee,-4.67,,2020-01-01
+866,2020-07-30,Starbucks,Coffee,-4.67,,2020-01-01
+867,2020-07-01,Safeway,Food,-5.97,,2020-01-01
+868,2020-07-02,Safeway,Food,-14.62,,2020-01-01
+869,2020-07-04,Safeway,Food,-7.96,,2020-01-01
+870,2020-07-05,Safeway,Food,-14.6,,2020-01-01
+871,2020-07-06,Safeway,Food,-5.37,,2020-01-01
+872,2020-07-07,Safeway,Food,-19.62,,2020-01-01
+873,2020-07-08,Safeway,Food,-13.36,,2020-01-01
+874,2020-07-11,Safeway,Food,-5.34,,2020-01-01
+875,2020-07-13,Safeway,Food,-19.33,,2020-01-01
+876,2020-07-14,Safeway,Food,-11.94,,2020-01-01
+877,2020-07-16,Safeway,Food,-16.85,,2020-01-01
+878,2020-07-18,Safeway,Food,-11.34,,2020-01-01
+879,2020-07-19,Safeway,Food,-20.36,,2020-01-01
+880,2020-07-20,Safeway,Food,-11.34,,2020-01-01
+881,2020-07-22,Safeway,Food,-18.35,,2020-01-01
+882,2020-07-23,Safeway,Food,-20.33,,2020-01-01
+883,2020-07-24,Safeway,Food,-32.97,,2020-01-01
+884,2020-07-25,Safeway,Food,-5.37,,2020-01-01
+885,2020-07-26,Safeway,Food,-13.37,,2020-01-01
+886,2020-07-27,Safeway,Food,-13.37,,2020-01-01
+887,2020-07-28,Safeway,Food,-26.33,,2020-01-01
+888,2020-07-30,Safeway,Food,-24.53,,2020-01-01
+889,2020-07-31,Safeway,Food,-17.33,,2020-01-01
+890,2020-07-26,Chatters,Hair Cut,-44.68,Sam might be moving to another location? He gave me his cell number.,2020-01-01
+891,2020-07-20,McDonalds,Restaurant,-18.65,Uber Eats,2020-01-01
+892,2020-07-21,McDonalds,Restaurant,-13.4,Uber Eats,2020-01-01
+893,2020-07-09,Safeway,Food,-10.9,,2020-01-01
+894,2020-06-27,Liquor Depot,Alcohol,-72.63,,2020-01-01
+895,2020-06-01,Shirley,Rent,-670.0,,2020-01-01
+896,2020-06-06,Starbucks,Coffee,-4.67,,2020-01-01
+897,2020-06-12,Starbucks,Coffee,-5.2,,2020-01-01
+898,2020-06-16,Starbucks,Coffee,-4.67,,2020-01-01
+899,2020-06-17,Starbucks,Coffee,-5.2,,2020-01-01
+900,2020-06-21,Starbucks,Coffee,-5.2,,2020-01-01
+901,2020-06-22,Starbucks,Coffee,-5.2,,2020-01-01
+902,2020-06-28,Starbucks,Coffee,-5.41,,2020-01-01
+903,2020-06-30,Starbucks,Coffee,-5.2,,2020-01-01
+904,2020-06-28,Landmark Cinema,Entertainment,-5.0,Went to new theatre at Market Mall; saw 1917,2020-01-01
+905,2020-06-02,Safeway,Food,-20.36,,2020-01-01
+906,2020-06-04,Safeway,Food,-32.81,,2020-01-01
+907,2020-06-05,Safeway,Food,-9.16,,2020-01-01
+908,2020-06-06,Safeway,Food,-5.37,,2020-01-01
+909,2020-06-07,Safeway,Food,-13.0,,2020-01-01
+910,2020-06-08,Safeway,Food,-8.89,,2020-01-01
+911,2020-06-09,Safeway,Food,-18.0,,2020-01-01
+912,2020-06-10,Safeway,Food,-27.42,,2020-01-01
+913,2020-06-11,Safeway,Food,-5.34,,2020-01-01
+914,2020-06-12,Safeway,Food,-5.34,,2020-01-01
+915,2020-06-14,Safeway,Food,-16.62,,2020-01-01
+916,2020-06-15,Safeway,Food,-5.34,,2020-01-01
+917,2020-06-16,Safeway,Food,-5.34,,2020-01-01
+918,2020-06-16,Safeway,Food,-54.71,,2020-01-01
+919,2020-06-20,Safeway,Food,-5.34,,2020-01-01
+920,2020-06-21,Safeway,Food,-5.34,,2020-01-01
+921,2020-06-22,Safeway,Food,-23.28,,2020-01-01
+922,2020-06-23,Safeway,Food,-5.37,,2020-01-01
+923,2020-06-24,Safeway,Food,-13.33,,2020-01-01
+924,2020-06-25,Safeway,Food,-24.53,,2020-01-01
+925,2020-06-27,Safeway,Food,-12.28,,2020-01-01
+926,2020-06-29,Safeway,Food,-5.34,,2020-01-01
+927,2020-06-30,Safeway,Food,-5.97,,2020-01-01
+928,2020-06-01,Calgary City Cabs,Transportation,-35.6,Brought grandma home from Foothills hospital (2nd fall),2020-01-01
+929,2020-03-14,Liquor Depot,Alcohol,-17.91,,2020-01-01
+930,2020-03-01,Shirley,Rent,-670.0,,2020-01-01
+931,2020-03-19,Liquor Depot,Alcohol,-73.73,,2020-01-01
+932,2020-03-02,Starbucks,Coffee,-5.51,,2020-01-01
+933,2020-03-03,Coffee Company,Coffee,-5.2,,2020-01-01
+934,2020-03-06,Coffee Company,Coffee,-5.2,,2020-01-01
+935,2020-03-07,Starbucks,Coffee,-5.2,,2020-01-01
+936,2020-03-15,Starbucks,Coffee,-5.83,,2020-01-01
+937,2020-03-21,Starbucks,Coffee,-5.2,,2020-01-01
+938,2020-03-22,Starbucks,Coffee,-5.2,,2020-01-01
+939,2020-03-24,Starbucks,Coffee,-5.2,,2020-01-01
+940,2020-03-27,Starbucks,Coffee,-5.2,,2020-01-01
+941,2020-03-28,Starbucks,Coffee,-5.2,,2020-01-01
+942,2020-03-31,Starbucks,Coffee,-5.2,,2020-01-01
+943,2020-03-03,Safeway,Food,-31.51,,2020-01-01
+944,2020-03-04,Safeway,Food,-7.16,,2020-01-01
+945,2020-03-05,Safeway,Food,-11.54,,2020-01-01
+946,2020-03-07,Safeway,Food,-21.09,,2020-01-01
+947,2020-03-07,Safeway,Food,-5.37,,2020-01-01
+948,2020-03-12,Safeway,Food,-10.55,,2020-01-01
+949,2020-03-13,Safeway,Food,-48.33,,2020-01-01
+950,2020-03-14,Safeway,Food,-29.64,,2020-01-01
+951,2020-03-15,Safeway,Food,-5.37,,2020-01-01
+952,2020-03-17,Safeway,Food,-5.37,,2020-01-01
+953,2020-03-18,Safeway,Food,-5.37,,2020-01-01
+954,2020-03-18,Safeway,Food,-25.26,,2020-01-01
+955,2020-03-19,Safeway,Food,-15.04,Bought paper towels,2020-01-01
+956,2020-03-21,Safeway,Food,-5.37,,2020-01-01
+957,2020-03-22,Safeway,Food,-5.37,,2020-01-01
+958,2020-03-24,Safeway,Food,-5.37,,2020-01-01
+959,2020-03-28,Safeway,Food,-46.03,,2020-01-01
+960,2020-03-31,Safeway,Food,-5.37,,2020-01-01
+961,2020-03-07,Safeway,Personal,-39.52,Bought cutlery for Dinos pi day,2020-01-01
+962,2020-03-10,Korean BBQ,Restaurant,-11.5,,2020-01-01
+963,2020-03-20,Canadian Pizza Unlimited,Restaurant,-20.0,Bought two pizzas; split cost with Lucas,2020-01-01
+964,2020-03-27,Opa,Restaurant,-11.43,,2020-01-01
+965,,Bake Chef,Restaurant,-24.0,,2020-01-01
+966,2020-05-24,Starbucks,Coffee,-5.2,,2020-01-01
+967,2020-05-01,Shirley,Rent,-670.0,,2020-01-01
+968,2020-05-31,Starbucks,Coffee,-6.25,Flat white,2020-01-01
+969,2020-05-21,Starbucks,Coffee,-5.2,,2020-01-01
+970,2020-05-23,Starbucks,Coffee,-5.2,,2020-01-01
+971,2020-05-29,Starbucks,Coffee,-5.2,,2020-01-01
+972,2020-05-13,Starbucks,Coffee,-5.2,,2020-01-01
+973,2020-05-19,Starbucks,Coffee,-5.2,,2020-01-01
+974,2020-05-09,Starbucks,Coffee,-5.2,,2020-01-01
+975,2020-05-12,Starbucks,Coffee,-5.2,,2020-01-01
+976,2020-05-05,Starbucks,Coffee,-4.67,,2020-01-01
+977,2020-05-03,Starbucks,Coffee,-5.2,,2020-01-01
+978,2020-05-17,Starbucks,Coffee,-5.2,,2020-01-01
+979,2020-05-12,Safeway,Food,-13.53,,2020-01-01
+980,2020-05-23,Safeway,Food,-4.99,,2020-01-01
+981,2020-05-25,Safeway,Food,-15.68,,2020-01-01
+982,2020-05-28,Safeway,Food,-12.59,,2020-01-01
+983,2020-05-27,Safeway,Food,-28.1,,2020-01-01
+984,2020-05-13,Safeway,Food,-32.18,,2020-01-01
+985,2020-05-31,Safeway,Food,-9.84,,2020-01-01
+986,2020-05-03,Safeway,Food,-6.29,,2020-01-01
+987,2020-05-08,Safeway,Food,-11.51,,2020-01-01
+988,2020-05-21,Safeway,Food,-29.27,,2020-01-01
+989,2020-05-30,Safeway,Food,-38.75,,2020-01-01
+990,2020-05-09,Safeway,Food,-5.34,,2020-01-01
+991,2020-05-05,Safeway,Food,-39.7,,2020-01-01
+992,2020-05-19,Safeway,Food,-37.44,,2020-01-01
+993,2020-05-17,Safeway,Food,-7.78,,2020-01-01
+994,2020-05-14,Safeway,Food,-10.93,,2020-01-01
+995,2020-05-29,Safeway,Food,-5.34,,2020-01-01
+996,2020-05-24,Safeway,Food,-5.34,,2020-01-01
+997,2020-05-09,Wal-Mart,Personal,-65.47,Went with mom today during COVID,2020-01-01
+998,2020-05-21,London Drugs,Personal,-15.74,Bought dishwasher pods,2020-01-01
+999,2020-11-14,Liquor Depot,Alcohol,-21.09,Had steak night with Lucas,2020-01-01
+1000,2020-11-10,Cineplex,Entertainment,-8.99,Saw Tenet,2020-01-01
+1001,2020-11-03,Safeway,Food,-5.03,,2020-01-01
+1002,2020-11-05,Safeway,Food,-11.34,,2020-01-01
+1003,2020-11-06,Safeway,Food,-5.37,,2020-01-01
+1004,2020-11-07,Safeway,Food,-12.36,,2020-01-01
+1005,2020-11-09,Safeway,Food,-47.59,,2020-01-01
+1006,2020-11-08,Safeway,Food,-20.96,,2020-01-01
+1007,2020-11-10,Safeway,Food,-5.37,,2020-01-01
+1008,2020-11-11,Safeway,Food,-5.97,,2020-01-01
+1009,2020-11-13,Safeway,Food,-5.37,,2020-01-01
+1010,2020-11-14,Safeway,Food,-20.31,,2020-01-01
+1011,2020-11-16,Safeway,Food,-5.37,,2020-01-01
+1012,2020-11-17,Safeway,Food,-5.37,,2020-01-01
+1013,2020-11-17,Safeway,Food,-20.96,,2020-01-01
+1014,2020-11-19,Safeway,Food,-5.37,,2020-01-01
+1015,2020-11-20,Safeway,Food,-20.96,,2020-01-01
+1016,2020-11-21,Safeway,Food,-13.33,,2020-01-01
+1017,2020-11-23,Safeway,Food,-27.91,Bought steaks for Lucas and I as payback for his steak night.,2020-01-01
+1018,2020-11-24,Safeway,Food,-44.45,Bought a box of Clif Bars for homeless person,2020-01-01
+1019,2020-11-25,Safeway,Food,-11.66,,2020-01-01
+1020,2020-11-26,Safeway,Food,-34.94,,2020-01-01
+1021,2020-11-27,Safeway,Food,-9.1,,2020-01-01
+1022,2020-11-29,Safeway,Food,-5.37,,2020-01-01
+1023,2020-11-16,London Drugs,Personal,-6.29,Bought hair ties,2020-01-01
+1024,2020-11-01,Dominos,Restaurant,-20.02,Had a huge headache today,2020-01-01
+1025,2020-11-10,Burger King,Restaurant,-21.48,,2020-01-01
+1026,2020-11-20,Dominos,Restaurant,-20.56,Had the last pizza night with John; he moved the next day.,2020-01-01
+1027,2020-11-28,Dominos,Restaurant,-36.93,,2020-01-01
+1028,2020-10-01,Safeway,Food,-23.97,,2020-01-01
+1029,2020-10-01,Chatters,Hair-Cut,-44.68,Met with James today; he cut an inch of my beard on the left side!,2020-01-01
+1030,2020-10-05,Safeway,Food,-32.03,Bought some ingredients for new meals today!,2020-01-01
+1031,2020-10-06,Safeway,Food,-31.1,Bought some ingredients for chicken stir-fry,2020-01-01
+1032,2020-10-08,Safeway,Food,-32.16,,2020-01-01
+1033,2020-10-09,Safeway,Food,-18.92,,2020-01-01
+1034,2020-10-10,Safeway,Food,-14.3,Mama came to visit today,2020-01-01
+1035,2020-10-10,Safeway,Personal,-35.0,Bought bus tickets,2020-01-01
+1036,2020-10-10,Safeway,Food,-31.09,,2020-01-01
+1037,2020-10-12,London Drugs,Personal,-19.62,Bought light bulbs for room; 3 of them,2020-01-01
+1038,2020-10-13,Safeway,Food,-33.41,,2020-01-01
+1039,2020-10-18,Safeway,Food,-77.0,,2020-01-01
+1040,2020-10-14,London Drugs,Personal,-39.89,"Bought a new frying pan (""The Rock Fry Pan"")",2020-01-01
+1041,2020-10-21,Safeway,Food,-6.22,,2020-01-01
+1042,2020-10-22,Liquor Depot,Alcohol,-17.91,Bought Mike's Hard,2020-01-01
+1043,2020-10-22,Safeway,Food,-81.09,,2020-01-01
+1044,2020-10-23,Safeway,Food,-29.98,,2020-01-01
+1045,2020-10-25,Safeway,Food,-5.37,,2020-01-01
+1046,2020-10-29,Safeway,Food,-5.37,,2020-01-01
+1047,2020-10-30,Safeway,Food,-52.14,,2020-01-01
+1048,2020-10-31,London Drugs,Personal,-7.34,Bought Halloween candy for kids,2020-01-01
+1049,2020-10-31,Safeway,Food,-11.34,,2020-01-01
+1050,2020-09-01,Starbucks,Coffee,-4.67,,2020-01-01
+1051,2020-09-26,Steam,Entertainment,-5.974500000000001,Bought 'Among Us',2020-01-01
+1052,2020-09-01,Safeway,Food,-9.84,,2020-01-01
+1053,2020-09-04,Safeway,Food,-20.16,,2020-01-01
+1054,2020-09-08,Safeway,Food,-11.23,,2020-01-01
+1055,2020-09-10,Safeway,Food,-23.43,,2020-01-01
+1056,2020-09-14,Safeway,Food,-29.98,,2020-01-01
+1057,2020-09-15,Safeway,Food,-14.99,,2020-01-01
+1058,2020-09-18,Safeway,Food,-111.6,Bought ingredients to make wings for Lucas' friends,2020-01-01
+1059,2020-09-21,Safeway,Food,-19.71,,2020-01-01
+1060,2020-09-24,Safeway,Food,-83.1,,2020-01-01
+1061,2020-09-27,Safeway,Food,-11.94,Mom visited today,2020-01-01
+1062,2020-09-07,London Drugs,Personal,-89.48,Bough K-Mini Keurig and 24-pack pods,2020-01-01
+1063,2020-09-10,Anytime Fitness,Personal,-52.49,Got 7-day free trial; still had to pay for the keycard,2020-01-01
+1064,2020-09-21,Anytime Fitness,Personal,-65.08,Bought gym membership today; 30.99*2*1.05,2020-01-01
+1065,2020-09-22,London Drugs,Personal,-6.3,Bought halls,2020-01-01
+1066,2020-09-19,Little Caesars,Restaurant,-15.0,Paid my share for pizza/games night,2020-01-01
